@@ -61,7 +61,7 @@ MODEL GRAPH
 
 DESIGN:
 
-![WhatsApp Image 2025-12-04 at 11 00 30_eb75dcec](https://github.com/user-attachments/assets/e647dc54-5cfc-4386-afd8-ef6c6a9e29bb)
+![WhatsApp Image 2025-12-04 at 11 34 13_6d504604](https://github.com/user-attachments/assets/5775625c-9741-4eb0-a628-121699d2d17b)
 
 
 PROCEDURE:
@@ -95,7 +95,8 @@ If the signal is applied to the non-inverting input terminal without inversion, 
 Here, the output is fed back to the inverting terminal, and **no phase shift** occurs.
 
 
-ACL = 1 + RF/R1
+![WhatsApp Image 2025-12-04 at 11 34 53_3ca1da77](https://github.com/user-attachments/assets/35ef6291-b19a-4bf4-8e17-1a7cf0de3988)
+![WhatsApp Image 2025-12-04 at 11 35 01_d5b57993](https://github.com/user-attachments/assets/d37b962e-286b-41f2-a4d0-3bc5593d22e4)
 
 
 ---
