@@ -61,7 +61,7 @@ MODEL GRAPH
 
 DESIGN:
 
-![WhatsApp Image 2025-12-04 at 10 35 41_c272176d](https://github.com/user-attachments/assets/4f0574d0-2bae-408b-b7d0-a8d27e55a229)
+![WhatsApp Image 2025-12-04 at 11 00 30_eb75dcec](https://github.com/user-attachments/assets/e647dc54-5cfc-4386-afd8-ef6c6a9e29bb)
 
 
 PROCEDURE:
