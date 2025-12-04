@@ -61,12 +61,8 @@ MODEL GRAPH
 
 DESIGN:
 
-Inverting amplifier:
+![WhatsApp Image 2025-12-04 at 10 35 41_c272176d](https://github.com/user-attachments/assets/4f0574d0-2bae-408b-b7d0-a8d27e55a229)
 
-A = -Rf/R1
-Take  A = 10
-Rf =10 R1
-Choose R1 = 1kΩ, Rf=10kΩ
 
 PROCEDURE:
 Inverting amplifier:
